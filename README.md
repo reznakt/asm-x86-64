@@ -3,7 +3,7 @@
 ## Usage
 
 ```console
-$ nasm -f elf64 file.asm
-$ ld file.o
-$ ./a.out
+nasm -f elf64 file.asm
+ld file.o
+./a.out
 ```
